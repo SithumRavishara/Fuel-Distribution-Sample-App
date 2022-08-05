@@ -45,6 +45,21 @@ ul {
     /* font-weight: bold; */
   }
 
+  #prt{
+    padding: 26px 0px;
+    font-size: 15px;
+    /* font-weight: bold; */
+  }
+
+  #portal{
+    font-weight: 500;
+  }
+
+  #portal:hover{
+    color: rgb(63, 50, 56);
+
+  }
+
   #title{
     position: absolute;
     top: 5%;
