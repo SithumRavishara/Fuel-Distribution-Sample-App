@@ -1,6 +1,6 @@
-package com.sithum.FuelDistributionSampleApp.DAO;
+package com.sithum.fueldistributionsampleapp.DAO;
 
-import com.sithum.FuelDistributionSampleApp.Entity.Order;
+import com.sithum.fueldistributionsampleapp.Entity.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

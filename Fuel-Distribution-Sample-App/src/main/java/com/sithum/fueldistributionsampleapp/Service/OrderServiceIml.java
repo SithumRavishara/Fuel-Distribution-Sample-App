@@ -1,7 +1,7 @@
-package com.sithum.FuelDistributionSampleApp.Service;
+package com.sithum.fueldistributionsampleapp.Service;
 
-import com.sithum.FuelDistributionSampleApp.DAO.OrderDAO;
-import com.sithum.FuelDistributionSampleApp.Entity.Order;
+import com.sithum.fueldistributionsampleapp.DAO.OrderDAO;
+import com.sithum.fueldistributionsampleapp.Entity.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

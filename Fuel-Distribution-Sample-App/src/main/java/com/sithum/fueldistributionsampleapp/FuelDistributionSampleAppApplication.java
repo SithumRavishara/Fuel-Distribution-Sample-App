@@ -1,4 +1,4 @@
-package com.sithum.FuelDistributionSampleApp;
+package com.sithum.fueldistributionsampleapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

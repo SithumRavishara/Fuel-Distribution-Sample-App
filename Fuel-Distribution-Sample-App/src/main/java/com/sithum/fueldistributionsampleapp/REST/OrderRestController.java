@@ -1,6 +1,6 @@
-package com.sithum.FuelDistributionSampleApp.REST;
+package com.sithum.fueldistributionsampleapp.REST;
 
-import com.sithum.FuelDistributionSampleApp.Service.OrderService;
+import com.sithum.fueldistributionsampleapp.Service.OrderService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

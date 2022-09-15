@@ -1,4 +1,4 @@
-package com.sithum.FuelDistributionSampleApp.DTO;
+package com.sithum.fueldistributionsampleapp.DTO;
 
 public class OrderDTO {
 

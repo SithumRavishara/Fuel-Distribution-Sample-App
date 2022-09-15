@@ -1,4 +1,4 @@
-package com.sithum.FuelDistributionSampleApp.Entity;
+package com.sithum.fueldistributionsampleapp.Entity;
 
 import javax.persistence.*;
 

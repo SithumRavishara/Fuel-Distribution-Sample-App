@@ -1,4 +1,4 @@
-package com.sithum.FuelDistributionSampleApp;
+package com.sithum.fueldistributionsampleapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

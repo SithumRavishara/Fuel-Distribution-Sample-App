@@ -1,10 +1,10 @@
-package com.sithum.FuelDistributionSampleApp.Service;
+package com.sithum.fueldistributionsampleapp.DAO;
 
-import com.sithum.FuelDistributionSampleApp.Entity.Order;
+import com.sithum.fueldistributionsampleapp.Entity.Order;
 
 import java.util.List;
 
-public interface OrderService {
+public interface OrderDAO {
 
   public Order findById(int theId);
 
