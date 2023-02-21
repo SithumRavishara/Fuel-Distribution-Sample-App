@@ -1,6 +1,6 @@
 package com.sithum.fueldistributionsampleapp.JWT.service;
 
-import com.sithum.fueldistributionsampleapp.DAO.UserDAO;
+import com.sithum.fueldistributionsampleapp.JWT.dao.UserDAO;
 import com.sithum.fueldistributionsampleapp.JWT.model.User;
 import com.sithum.fueldistributionsampleapp.JWT.model.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +15,7 @@ import java.util.ArrayList;
 @Component
 public class JwtUserDetailsService implements UserDetailsService {
 
-  @Autowired
+
   private UserDAO userDao;
 
   @Autowired

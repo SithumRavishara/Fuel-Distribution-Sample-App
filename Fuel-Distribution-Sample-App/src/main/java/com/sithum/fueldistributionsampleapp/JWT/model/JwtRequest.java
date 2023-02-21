@@ -1,6 +1,8 @@
 package com.sithum.fueldistributionsampleapp.JWT.model;
 
-public class JwtRequest {
+import java.io.Serializable;
+
+public class JwtRequest implements Serializable {
 
   private static final long serialVersionUID = 5926468583005150707L;
 
